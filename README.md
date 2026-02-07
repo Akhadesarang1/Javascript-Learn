@@ -8,5 +8,5 @@ the Chai aur JavaScript playlist.
 - Variables & Datatypes
 - Practice examples
 
-## Goal
+## Goal 
 Build strong JavaScript fundamentals.
