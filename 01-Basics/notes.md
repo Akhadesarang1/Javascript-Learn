@@ -74,7 +74,7 @@ const accountId = 1039;
 var accountPassword = "12345";
 ```
 
-### Without Declaration (❌ Not Recommended)
+### Without Declaration (Not Recommended)
 
 * Creates a global variable.
 
